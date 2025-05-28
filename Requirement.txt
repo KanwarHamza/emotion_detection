@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv
 numpy
 librosa
 tensorflow
@@ -13,4 +13,3 @@ mediapipe
 fpdf
 plotly
 Pillow
-cv2
