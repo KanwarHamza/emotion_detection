@@ -8,3 +8,4 @@ __pycache__/
 # Ignore temporary files
 *.tmp
 *.temp
+emotion-detection-79637-firebase-adminsdk-fbsvc-0dc533e306.json
