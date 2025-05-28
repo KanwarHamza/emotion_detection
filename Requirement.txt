@@ -13,3 +13,4 @@ mediapipe
 fpdf
 plotly
 Pillow
+cv
