@@ -1,0 +1,15 @@
+streamlit
+opencv-python
+numpy
+librosa
+tensorflow
+sounddevice
+scipy
+pandas
+pyarrow
+matplotlib
+deepface
+mediapipe
+fpdf
+plotly
+Pillow
