@@ -9,4 +9,8 @@ pillow>=9.0.0
 soundfile>=0.10.3
 openai-whisper==20230314
 av==10.0.0
+streamlit==1.26.0
+torch==2.0.1
+rich==14.0.0
+typing-extensions==4.7.1
 git+https://github.com/openai/whisper.git
